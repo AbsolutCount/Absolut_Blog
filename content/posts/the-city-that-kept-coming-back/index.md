@@ -38,7 +38,7 @@ Search remembers these games too, but only from 2010. In the US, interest in *Vi
 
 *Grand Theft Auto V* kept Euphoria and launched on PlayStation 3 and Xbox 360 on 17 September 2013. This is where search can finally speak.
 
-**Chart S3** shows daily search around three dated launches. For the 2013 launch, the highest day in the first two weeks reached 11.6 times the pre-launch base in the US, 18.2 in Britain, 14.3 in Australia and 9.7 in Canada; India moved far less, at 2.0. When the same game was re-released on PlayStation 4 and Xbox One on 18 November 2014, the jump was much smaller: 2.8 in the US, 4.4 in Britain. A new platform release is not a new game.
+**Chart S3** shows daily search around three dated launches. For the 2013 launch, the highest day in the first two weeks reached 11.5 times the pre-launch base in the US, 18.2 in Britain, 14.3 in Australia and 9.6 in Canada; India moved far less, at 2.0. When the same game was re-released on PlayStation 4 and Xbox One on 18 November 2014, the jump was much smaller: 2.8 in the US, 4.4 in Britain. A new platform release is not a new game.
 
 ![Chart S3 — Daily GTA search around launch anchors](S3.png)
 
@@ -86,7 +86,9 @@ What happens after launch day is not yet observed. That is the next post.
 
 ---
 
-**How to read the charts.** Each line is its own index: 100 is that series' own average in 2012, one fixed base for all years. Panels have different scales, so compare shapes, not heights. In S3 the dots are the peak (●) and mean (□) of the first two weeks after launch, divided by the base; "US 11.61 / 8.30" means peak 11.61, mean 8.30. S4 uses a log colour scale; the darkest colour covers the top 5% of days. S5's checkpoints are not evenly spaced in time. Search intent is not sales, players or cause.
+**How to read the charts.** Each line is its own index: 100 is that series' own average in 2012, one fixed base for all years. Panels have different scales, so compare shapes, not heights. In S3 the dots are the peak (●) and mean (□) of the first two weeks after launch, divided by the base; "US 11.53 / 8.27" means peak 11.53, mean 8.27. S4 uses a log colour scale; the darkest colour covers the top 5% of days. S5's checkpoints are not evenly spaced in time. Search intent is not sales, players or cause.
+
+Text figures and chart S3 use the 20 Nov 2026 export; charts S1, S2, S4 and S5 use the 19 Nov 2026 export. At the printed precision, the two exports differ only in these three figures.
 
 **Footnote (break).** Between June and August 2025 the source shows a level shift; comparisons across that period, including all 2026-vs-2025 ratios above, should be read with caution.
 
