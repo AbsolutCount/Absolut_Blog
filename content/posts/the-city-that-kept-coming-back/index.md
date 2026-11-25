@@ -64,7 +64,7 @@ That is the reading this post proposes for the raised floor in S1: players kept 
 
 Players built their own cities too. Multiplayer modifications predate Online: *MTA* for *Vice City*, and *SA-MP*, whose "first playable release was launched in May 2006". For *GTA V*, *FiveM* "has existed in various forms since 2014" and *RAGE Multiplayer* "started in May 2016". The relationship with the publisher was uneasy: one team received an official cease-and-desist letter, and Take-Two filed a DMCA notice against the *re3* and *reVC* reverse-engineering projects. Later a GTA V roleplay modding team became "officially a part of Rockstar Games".
 
-The city also became something to watch. On 2 May 2021, *GTA V* drew 1,141,000 concurrent viewers on Twitch, and in 2021 it gathered 2.1 billion hours watched.
+The city also became something to watch. Gamesight reported that *GTA V* role-play streams on Twitch peaked at 1,141,000 concurrent viewers on 2 May 2021. Separately, IGN, citing Rainmaker.gg and StreamElements, put the whole *GTA V* category at 2.1 billion hours watched in 2021.
 
 ## 6. One city, many markets
 
